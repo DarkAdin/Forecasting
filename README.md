@@ -12,6 +12,8 @@ Reference each of the tools for their particular settings and hacking. The main 
 
 In the following images a forecasting for the orders of the *Prague_2* warehouse for the next 61 days can be seen, using each of the four mentioned forecasting methods.
 
+**Prophet** was the method that returned the best accuracy, though through enough tinkering, better scores can be achieved. The method for scoring was the **Mean Absolute Percentage Error (MAPE)**.
+
 ## Prophet
 
 ![](prague2_prophet.png "Prague_2 with Prophet")
