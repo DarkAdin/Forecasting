@@ -1,6 +1,8 @@
 # Forecasting
 A forecasting algorithm for the Rohlik Orders challenge in Kaggle: https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge
 
+![](orders.png "Orders in each of the warehouses")
+
 This notebook implements four different approaches to performing forecasting predictions on the number of orders in the next 61 days following the dates from the training set. The four approaches are, in order:
 
 1. **Prophet**: https://github.com/facebook/prophet
