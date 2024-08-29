@@ -10,6 +10,8 @@ This notebook implements four different approaches to performing forecasting pre
 
 Reference each of the tools for their particular settings and hacking. The main idea is to infer a function that continues as part of a known, probably oscillatory function in time.
 
+In the following images a forecasting for the orders of the *Prague_2* warehouse for the next 61 days can be seen, using each of the four mentioned forecasting methods.
+
 ## Prophet
 
 ![](prague2_prophet.png "Prague_2 with Prophet")
